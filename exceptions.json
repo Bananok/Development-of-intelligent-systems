@@ -1,0 +1,22 @@
+[
+    [
+    "main.py 19",
+    "MemoryError",
+    "Traceback (most recent call last):\n  File \"main.py\", line 19, in <module>\n    raise MemoryError()\nMemoryError\n",
+    "Out of Memory,"
+    ],
+    ["main.py 23", 
+    "TypeError",
+    "Traceback (most recent call last):\n  File \"main.py\", line 23, in <module>\n    raise TypeError()\nTypeError\n",
+    "Wrong type of data,"],
+    ["main.py 27", 
+    "KeyError",
+    "Traceback (most recent call last):\n  File \"main.py\", line 27, in <module>\n    raise KeyError()\nKeyError\n",
+    "Key not found,"
+    ],
+    ["main.py 31",
+    "TimeoutError",      
+    "Traceback (most recent call last):\n  File \"main.py\", line 31, in <module>\n    raise TimeoutError()\nTimeoutError\n",
+    "Timed out,"
+    ]
+]
